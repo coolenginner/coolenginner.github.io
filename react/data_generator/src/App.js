@@ -18,8 +18,8 @@ class App extends Component {
 		return (
 			<div className="App">
 				<AppBar className="title-bar" title="React-Sample Data Generator"
-			iconElementLeft={<a href="https://webmaster444.github.io/"><ActionHome color="white" style={logoStyle}/></a>}
-			iconElementRight={<a href="https://github.com/webmaster444/webmaster444.github.io/react/data_generator_master/"><img src={githubLogo} style={logoStyle}/> </a>}/>
+			iconElementLeft={<a href="https://coolenginner.github.io/"><ActionHome color="white" style={logoStyle}/></a>}
+			iconElementRight={<a href="https://github.com/coolenginner/coolenginner.github.io/react/data_generator_master/"><img src={githubLogo} style={logoStyle}/> </a>}/>
 				<div className="content">
 					<div className="primary-container">
 						<ChartConfigBar/>
