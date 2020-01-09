@@ -1,5 +1,5 @@
 /**
- * @author Webmaster444
+ * @author coolenginner
  * @version 2.0
  */
 d3.gantt = function() {
